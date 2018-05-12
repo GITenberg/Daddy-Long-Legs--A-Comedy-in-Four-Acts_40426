@@ -1,0 +1,35 @@
+_repo: Daddy-Long-Legs--A-Comedy-in-Four-Acts_40426
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40426-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Webster, Jean
+    aliases:
+    - Webster, Alice Jean Chandler
+    - McKinney, Jean Webster
+    birthdate: 1876
+    deathdate: 1916
+    gutenberg_agent_id: '99'
+    url: http://www.gutenberg.org/2009/agents/99
+    wikipedia: http://en.wikipedia.org/wiki/Jean_Webster
+description: ''
+gutenberg_issued: '2012-08-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40426'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Young women -- Drama'
+- !lcsh 'Women college students -- Drama'
+- !lcsh 'Orphans -- Drama'
+- !lcsh 'Comedies'
+- !lcsh 'Women authors -- Drama'
+- !lcsh 'Philanthropists -- Drama'
+- !lcc 'PS'
+title: 'Daddy Long-Legs: A Comedy in Four Acts'
+url: http://www.gutenberg.org/ebooks/40426
